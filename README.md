@@ -25,7 +25,7 @@ The **Simple Mario Game** is a basic platformer game inspired by the classic Mar
 
 To run the game, you need to have Python and Pygame installed on your system. 
 
-1. **Clone the repository:**
+1. **Clone the repository**
 
 
 2. **Install Pygame:**
