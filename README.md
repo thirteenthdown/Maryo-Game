@@ -7,7 +7,7 @@ A simple Mario game built using Python and the Pygame library. This project demo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Gameplay](#gameplay)
-- [Screenshots](#screenshots)
+
 
 ## Introduction
 
@@ -27,10 +27,6 @@ To run the game, you need to have Python and Pygame installed on your system.
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/aditikute24/Simple-Mario-Game-Python.git
-   cd Simple-Mario-Game-Python
-   ```
 
 2. **Install Pygame:**
 
@@ -51,8 +47,4 @@ python mario.py
 - **Controls**: Use the arrow keys to move left and right, and the spacebar to jump.
 - **Objective**: Navigate through levels, avoid enemies, and reach the end goal.
 
-## Screenshots
-
-![Game Screenshot](https://github.com/user-attachments/assets/0b12b52a-f4bc-44e7-a819-f140a1eb0ec8) 
-![Game Screenshot](https://github.com/user-attachments/assets/bdba7277-4243-436d-97a1-3c1a2f0035be) 
 
