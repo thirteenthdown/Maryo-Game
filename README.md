@@ -1,5 +1,5 @@
-# Simple Mario Game
-A simple Mario game built using Python and the Pygame library. This project demonstrates basic game development concepts, such as sprite animation, collision detection, and level design.
+# Maryo
+A simple variation of the new Mario game built using Python and the Pygame library. This project demonstrates basic game development concepts, such as sprite animation, collision detection, and level design.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,7 +11,7 @@ A simple Mario game built using Python and the Pygame library. This project demo
 
 ## Introduction
 
-The **Simple Mario Game** is a basic platformer game inspired by the classic Mario games. It aims to provide a fun and nostalgic experience while also serving as a learning tool for beginners in game development using Python.
+The **Maryo Game** is a basic platformer game inspired by the classic Mario games. It aims to provide a fun and nostalgic experience while also serving as a learning tool for beginners in game development using Python.
 
 ## Features
 
@@ -46,5 +46,6 @@ python mario.py
 
 - **Controls**: Use the arrow keys to move left and right, and the spacebar to jump.
 - **Objective**: Navigate through levels, avoid enemies, and reach the end goal.
+
 
 
